@@ -1,0 +1,9 @@
+C:\Users\rodri\OneDrive\Área de Trabalho\c#\trycatch\projeto\IMC\IMC\bin\Debug\IMC.exe.config
+C:\Users\rodri\OneDrive\Área de Trabalho\c#\trycatch\projeto\IMC\IMC\bin\Debug\IMC.exe
+C:\Users\rodri\OneDrive\Área de Trabalho\c#\trycatch\projeto\IMC\IMC\bin\Debug\IMC.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\c#\trycatch\projeto\IMC\IMC\obj\Debug\IMC.csprojAssemblyReference.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\c#\trycatch\projeto\IMC\IMC\obj\Debug\IMC.Form1.resources
+C:\Users\rodri\OneDrive\Área de Trabalho\c#\trycatch\projeto\IMC\IMC\obj\Debug\IMC.Properties.Resources.resources
+C:\Users\rodri\OneDrive\Área de Trabalho\c#\trycatch\projeto\IMC\IMC\obj\Debug\IMC.csproj.GenerateResource.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\c#\trycatch\projeto\IMC\IMC\obj\Debug\IMC.exe
+C:\Users\rodri\OneDrive\Área de Trabalho\c#\trycatch\projeto\IMC\IMC\obj\Debug\IMC.pdb
